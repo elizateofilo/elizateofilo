@@ -9,5 +9,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
   
-
+##
+  
+ <div> 
+    <a href = "mailto:maria.eliza61@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+   
+   </div>
