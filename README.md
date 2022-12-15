@@ -1,4 +1,5 @@
 ### Olá, seja bem vindo(a)! Meu nome é Eliza👋
+![GitHub Org's stars](https://img.shields.io/github/stars/elizateofilo?style=social)
 <div align="center">
   <a href="https://github.com/elizateofilo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elizateofilo&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
